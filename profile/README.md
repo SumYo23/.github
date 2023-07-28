@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/yolov5-pink?logo=yolov5"/>
 </p>
 
+[👉👉앱 다운받기👈👈](https://docs.google.com/uc?export=download&id=11DdpPetu5vjeYQd7xtiP5ojgXTKt2fzU)
+
+
 ## 팀원소개
 
 |                   기획                    |                백엔드 개발                 |                AI 개발                |                    프론트엔드 개발                     |                                백엔드 개발                                 |
@@ -17,8 +20,6 @@
 |                   이현지                   |                  김가영                  |                 임기륜                 |                       전예준                       |                                  이경준                                  |
 | [hyunnzzz](https://github.com/hyunnzzz) | [gabang2](https://github.com/gabang2) | [giirrr](https://github.com/giirrr) | [sunlight9344](https://github.com/sunlight9344) | [kyungjunleeme](https://github.com/orgs/SumYo23/people/kyungjunleeme) |
 
-
-[👉👉앱 다운받기👈👈](https://docs.google.com/uc?export=download&id=11DdpPetu5vjeYQd7xtiP5ojgXTKt2fzU)
 
 ## Summary
 ![image](https://github.com/SumYo23/sumyo_app/assets/82714785/b7565cd7-df7a-432a-8ae5-76b6dcc26522)
