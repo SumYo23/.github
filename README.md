@@ -11,7 +11,8 @@
 </p>
 
 
-[👉👉앱 다운받기👈👈](https://docs.google.com/uc?export=download&id=11DdpPetu5vjeYQd7xtiP5ojgXTKt2fzU)
+[👉👉앱 다운받기👈👈](https://drive.google.com/file/d/1ao_W8x6UdA7izHNfo2N-ALemA0L6lM5W/view?usp=drive_link)
+
 
 ## Summary
 ![image](https://github.com/SumYo23/sumyo_app/assets/82714785/b7565cd7-df7a-432a-8ae5-76b6dcc26522)
